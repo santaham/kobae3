@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Mainstay.otf</string>
+		<string>Good Brush.otf</string>
+		<string>Abuget.ttf</string>
+		<string>BaksoSapi.otf</string>
+		<string>AbhayaLibre-SemiBold.ttf</string>
+		<string>Future.ttf</string>
+	</array>
+</dict>
+</plist>

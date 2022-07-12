@@ -1,0 +1,207 @@
+[
+    {
+        "title": "S(h)ifting Sands | A joing workshop + reading",
+        "organisation": "Sing Lit Station",
+        "date": "23 Jul 2022",
+        "time": "5.30-6.30pm",
+        "category": "Events",
+        "address": "22 Dickson Road",
+        "state": "Singapore",
+        "id": 1001,
+        "isBookmarked": false,
+        "coordinates": {
+            "longitude": 103.8542133259089,
+            "latitude": 1.3055348461364804
+        },
+        "description": "What does it mean to have a researchbased writing practice? Does the elusive muse live in the archives and if so, how do we find it? Join Shawn Hoo and Sing Lit Station on Saturday, 23 Jul for a daylong workshop and reading event called Shifting Sands  Sing Lit Station's first inperson poetry event in almost three years.",
+        "imageName": "event3"
+    },
+    {
+        "title": "Full-Time Opportunities at Argus Media",
+        "organisation": "Argus Media",
+        "date": "NIL",
+        "time": "NIL",
+        "category": "Job Opportunities",
+        "address": "50 Raffles Place",
+        "state": "Singapore",
+        "id": 1002,
+        "isBookmarked": false,
+        "coordinates": {
+            "longitude": 103.85199963754837,
+            "latitude": 1.284932430956274
+        },
+        "description":"We would like to invite students to register for our 2022 Morgan Stanley Singapore Mentorship Program, for an exclusive opportunity to be paired with mentors from the Firm, gain insights from the professionals and get prepared for a career in Investment Banking. Submit a registration before June 23, 1155 pm SGT. This program is running from July to August, for students who are interested in understanding more of our Investment Banking Division.",
+        "imageName": "event1"
+    },
+    {
+        "title": "2022 Morgan Stanley Singapore Mentorship Program",
+        "organisation": "Morgan Stanley",
+        "date": "July-August 2022",
+        "time": "NIL",
+        "category": "Job Opportunities",
+        "address": "23 Church Street",
+        "state": "Singapore",
+        "id": 1003,
+        "isBookmarked": false,
+        "coordinates": {
+            "longitude":  103.8489727431057,
+            "latitude": 1.2844748388977498
+        },
+        "description":"We are a global team of smart and ambitious people, committed to providing the best information to the energy and commodities markets. Argus is the leading independent price reporting agency, and our fast growth and success means that we are always looking for talented individuals to join our team. If that sounds like you, we would love to hear from you.",
+        "imageName": "event2"
+    },
+    {
+        "title": "Deutsche Bank | FIC Sales & Trading Insights",
+        "organisation": "Deutsche Bank",
+        "date": "6 July 2022",
+        "time": "4.30-6.00pm",
+        "category": "Events",
+        "address": "Zoom",
+        "state": "Singapore",
+        "id": 1004,
+        "isBookmarked": false,
+        "coordinates": {
+            "longitude": 103.85224194854901,
+            "latitude": 1.2809869123328002
+        },
+        "description": "for students from all years and disciplines who are interested in FIC Sales & Trading",
+        "imageName": "corporateevent"
+    },
+    {
+        "title": "Zilingo Cofounders Propose To Buyout Financially Troubled Startup",
+        "organisation": "Zilingo",
+        "date": "20 Jun 2022",
+        "time": "NIL",
+        "category": "Industry News",
+        "address": "3 Fraser St",
+        "state": "Singapore",
+        "id": 1005,
+        "isBookmarked": false,
+        "coordinates": {
+            "longitude": 103.85,
+            "latitude": 1.29
+        },
+        "description": "The cofounders of ZilingoDhruv Kapoor and Ankiti Bosehave proposed to buyout the troubled fashion startup as the duo aims to restructure and revive the companys operations amid prospects of liquidation. Given the potential of the business and the value you know this company can achieve, I urge you to consider the management buyout as a preferred alternative to voluntary liquidation, Kapoor said in the proposal sent to the Zilingo board on Sunday evening. A copy of the proposal was obtained by Forbes Asia. Bosewhom the board terminated as CEO in May following an internal accounting probehas thrown in her support for the MBO management buyout proposed by Kapoor. I endorse this proposed MBO plan with this new investor group and encourage all shareholders of Zilingo to see beyond the personal differences here and do what’s right, Bose told the board by email shortly after Kapoor sent the proposal. I would like to encourage all interested parties to engage alongside the management and founder group with the new investor group to support this initiative.",
+        "imageName": "event5"
+    },
+    {
+        "title": "Finding your Novel's Voice",
+        "organisation": "Asia Creative Writing Programme",
+        "date": "2 - 23 July 2022",
+        "time": "NIL",
+        "category": "Classes",
+        "address": "Zoom",
+        "state": "Singapore",
+        "id": 1006,
+        "isBookmarked": true,
+        "coordinates": {
+            "longitude": 103.68,
+            "latitude": 1.34
+        },
+        "description": "A little Monday boost this morning with our Visiting Writer Sharlene Teos interview with The Guardian  indeed, youre not a machine",
+        "imageName": "event6"
+    },
+    {
+        "title": "Internships | Centre for Strategic Futures (CSF)",
+        "organisation": "Centre for Strategic Futures",
+        "date": "July-August 2022",
+        "time": "NIL",
+        "category": "Job Opportunities",
+        "address": "The Istana",
+        "state": "Singapore",
+        "id": 1007,
+        "isBookmarked": true,
+        "coordinates": {
+            "longitude": 103.84,
+            "latitude": 1.30
+        },
+        "description":"We are a global team of smart and ambitious people, committed to providing the best information to the energy and commodities markets. Argus is the leading independent price reporting agency, and our fast growth and success means that we are always looking for talented individuals to join our team. If that sounds like you, we would love to hear from you.",
+        "imageName": "event11"
+    },
+    {
+        "title": "SheXO Young Leaders Challenge 2022",
+        "organisation": "Deloitte",
+        "date": "3 Jul 2022",
+        "time": "NIL",
+        "category": "Events",
+        "address": "6 Shenton Way",
+        "state": "Singapore",
+        "id": 1008,
+        "isBookmarked": false,
+        "coordinates": {
+            "longitude": 103.84,
+            "latitude": 1.27
+        },
+        "description": "Aspiring to make a positive impact for women in the workplace? Deloitte is pleased to announce the launch of SheXO Young Leaders Challenge 2022, where youll get the chance to  Examine reallife issues Brainstorm solutions to challenges Stand to win a mentored internship experience with Deloitte or one of our supporting organisations. Registration closes on 3 July, so don't miss out on the opportunity to be the next SheXO Woman of Impact",
+        "imageName": "event7"
+    },
+    {
+        "title": "TLDTD Editors Win First Place in the 2021 Hawker Prize",
+        "organisation": "TLDTD",
+        "date": "18 June 2022",
+        "time": "NIL",
+        "category": "Industry News",
+        "address": "NIL",
+        "state": "Philippines",
+        "id": 1009,
+        "isBookmarked": false,
+        "coordinates": {
+            "longitude": 103.85,
+            "latitude": 1.30
+        },
+        "description": "TLDTD Editors Paolo Tiausas and Nikay Paredes have earned themselves first place in the 2021 Hawker Prize for their nomination of Christine Imperial’s sounds liketunog. The journal takes home a total cash prize of 750 Singapore dollars.",
+        "imageName": "event8"
+    },
+    {
+        "title": "Gen Y Speaks: I dropped out of school at Pri 4. This is how I carve out a business career",
+        "organisation": "Annabel Law Productions (ALPS)",
+        "date": "18 June 2022",
+        "time": "NIL",
+        "category": "Industry News",
+        "address": "Singapore",
+        "state": "Philippines",
+        "id": 1010,
+        "isBookmarked": false,
+        "coordinates": {
+            "longitude": 103.68,
+            "latitude": 1.28
+        },
+        "description": "In Singapore, dropping out of a formal education in favour of homeschooling is shocking even today. This was even more so 20 years ago, when my family and I made the call for me to be homeschooled. I still remember the labels others had placed on my parents, deeming them wildly irresponsible for this decision. Despite this, today, I am immensely grateful for the decision my parents took. My homeschooling days have helped me carve out my own career path based on my personal strengths and have given me freedom from being bound to mainstream metrics of success. No child would want a diagnosis to define their lives completely. Yet at the age of nine, I was diagnosed with attention deficit hyperactivity disorder. This, coupled with my incessant bouts of eczema and an inability to focus, meant I faced difficulties learning in an educational structure that required me to sit still. Seeing that I was struggling to keep up with my peers, my parents took me out of school at Primary 4 to be homeschooled.",
+        "imageName": "event9"
+    },
+    {
+        "title": "Airlines were totally unprepared as travel came roaring back",
+        "organisation": "Changi Airport",
+        "date": "17 June 2022",
+        "time": "2.20pm",
+        "category": "Industry News",
+        "address": "Airport Boulevard",
+        "state": "Singapore",
+        "id": 1011,
+        "isBookmarked": true,
+        "coordinates": {
+            "longitude": 103.99,
+            "latitude": 1.36
+        },
+        "description": "MUMBAI BLOOMBERG Airline and airport executives spent the past two years trying to convince everyone it is safe to fly during a pandemic, touting reduced touch points and hospitalgrade filters. Little did they know how overwhelmed they would be once travel came roaring back. From Sydney, where passengers are waiting for hours to check in, to chaotic scenes in India and Europe, where Britain has seen weeks of disruption and Deutsche Lufthansa is cancelling hundreds of flights, the aviation industry does not have nearly enough people to run operations smoothly, even as postsummer demand for travel is still unclear. As countries reopen borders and Covid19 curbs fall away, travel has sprung back with such voracity that it has resulted in an unprecedented labour crunch, made worse by the pandemicinduced layoffs of hundreds of thousands of workers, from pilots to cabin crew and groundhandling staff.",
+        "imageName": "event10"
+    },
+    {
+        "title": "T:> Works' Annual Writing Workshop: Shifting Perspectives with Esther Vincent",
+        "organisation": "TWorks Singapore",
+        "date": "9 July 2022",
+        "time": "2.00pm",
+        "category": "Classes",
+        "address": "72-13 Mohamed Sultan Road",
+        "state": "Singapore",
+        "id": 1012,
+        "isBookmarked": true,
+        "coordinates": {
+            "longitude": 103.84,
+            "latitude": 1.29
+        },
+        "description": "A little Monday boost this morning with our Visiting Writer Sharlene Teos interview with The Guardian indeed, youre not a machine",
+        "imageName": "event3"
+    }
+
+]
